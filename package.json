@@ -1,0 +1,22 @@
+{
+  "name": "mini-koa",
+  "version": "1.0.0",
+  "description": "A mini koa-like node server framework",
+  "main": "lib/application.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipd/mini-koa.git"
+  },
+  "author": "lipeidao@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lipd/mini-koa/issues"
+  },
+  "homepage": "https://github.com/lipd/mini-koa#readme",
+  "devDependencies": {
+    "jest": "^22.4.0"
+  }
+}
